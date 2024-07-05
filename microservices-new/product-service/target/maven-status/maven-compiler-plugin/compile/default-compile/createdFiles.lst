@@ -1,0 +1,10 @@
+com\hypad\product_service\controller\ProductController.class
+com\hypad\product_service\model\Product$ProductBuilder.class
+com\hypad\product_service\ProductServiceApplication.class
+com\hypad\product_service\model\Product.class
+com\hypad\product_service\dto\ProductRequest.class
+com\hypad\product_service\repository\ProductRepository.class
+com\hypad\product_service\service\ProductService.class
+com\hypad\product_service\dto\ProductResponse.class
+com\hypad\product_service\dto\ProductRequest$ProductRequestBuilder.class
+com\hypad\product_service\dto\ProductResponse$ProductResponseBuilder.class
